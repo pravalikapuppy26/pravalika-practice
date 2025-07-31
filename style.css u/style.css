@@ -47,16 +47,16 @@ margin-right: 200px;}
 #header nav{
     display: block;
     float: right;
-    text-transform: uppercase;
-    margin: 10px 0 0;
+    margin: 10px 0 0 0;
     padding: 20px 0;
-    color: #c0BaB6;
+    color: #C0BAB6;
     background-color: #232323;
 }
 #header nav ul{
     padding: 0 20px;
     list-style: none;
     color: floralwhite;
+    float: left;
 }
 #header #hgroup h1{
     font-size: 32px;
